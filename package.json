@@ -1,0 +1,14 @@
+{
+  "name": "mr-css",
+  "version": "0.0.0",
+  "author": "",
+  "description": "",
+  "keywords": ["mr", "css"],
+  "dependencies": {
+    "mr": "git://github.com/kriskowal/mr.git#fix-main-linkage-chutes",
+    "gonzales": "~1.0.7"
+  },
+  "compilers": {
+    "css": "mr-css"
+  }
+}
